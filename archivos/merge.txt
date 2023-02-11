@@ -1,3 +1,5 @@
 Carolina Humanez Urrego
 18 años
 Con la materia espero aprender las bases del lenguaje java y aprender a programar objetos y para que sirve
+Puedo hacer el commit porque la carpeta no esta vacia
+Es importante tener cuidado con modificar archivos porque se pueden crear problemas entre las versiones
